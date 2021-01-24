@@ -1,3 +1,3 @@
 # Momento 2021 update
 
-Javascript so much better
+HTML & CSS & Javascript got so much better
